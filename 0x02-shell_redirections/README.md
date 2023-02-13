@@ -1,1 +1,1 @@
-writing scripts for redirectory
+writing scripts for redirection
